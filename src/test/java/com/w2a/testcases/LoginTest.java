@@ -14,7 +14,7 @@ public class LoginTest extends BaseTest{
 	
 	@Test(dataProviderClass=Utilities.class,dataProvider="dp")
 	public void loginTest(Hashtable<String,String> data){
-		//Adding a comment
+		//Adding a comment using EGit Plugin
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		//ZohoAppPage zp =login.doLogin("trainer@way2automation.com", "Selenium@123");
