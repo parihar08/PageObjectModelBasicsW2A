@@ -1,0 +1,12 @@
+25/12/2018 12:57:21 devpinoyLogger Config file loaded !!!
+25/12/2018 12:57:21 devpinoyLogger OR file loaded !!!
+25/12/2018 12:57:27 devpinoyLogger Chrome Launched !!!
+25/12/2018 12:57:30 devpinoyLogger Navigated to : http://www.zoho.com
+25/12/2018 12:57:32 devpinoyLogger Clicking on an element: login_CSS
+25/12/2018 12:57:32 devpinoyLogger Typing in an element: username_CSS entered value as trainer@way2automation.com
+25/12/2018 12:57:33 devpinoyLogger Typing in an element: password_CSS entered value as Selenium@123
+25/12/2018 12:57:33 devpinoyLogger Clicking on an element: submit_CSS
+25/12/2018 12:57:44 devpinoyLogger Clicking on an element: crm_CSS
+25/12/2018 12:57:44 devpinoyLogger Clicking on an element: goToAccounts_XPATH
+25/12/2018 12:57:45 devpinoyLogger Clicking on an element: createAccount_XPATH
+25/12/2018 12:57:45 devpinoyLogger Typing in an element: accountName_CSS entered value as Test
